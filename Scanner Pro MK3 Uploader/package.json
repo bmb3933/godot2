@@ -19,6 +19,6 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "fix-path": "^3.0.0",
-    "serialport": "^7.1.5"
+    "serialport": "^9.0.0"
   }
 }
